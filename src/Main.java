@@ -3,7 +3,6 @@ import java.math.RoundingMode;
 import java.util.Scanner;
 
 import static java.math.RoundingMode.HALF_EVEN;
-
 public class Main {
     public static void main(String[] args) {
 
